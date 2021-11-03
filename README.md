@@ -19,7 +19,7 @@ pip install tevatron
 
 Or typically for develoment/research, clone this repo and install as editable,
 ```
-git https://github.com/texttron/tevatron
+git clone https://github.com/texttron/tevatron
 cd tevatron
 pip install --editable .
 ```
